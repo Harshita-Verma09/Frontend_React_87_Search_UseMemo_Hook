@@ -9,6 +9,8 @@ const users = [
   { id: 6, name: "Raju" },
 ];
 
+
+
 const Search = () => {
   const [searchTerm, setSearchTerm] = useState("");
 
